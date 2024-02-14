@@ -77,4 +77,4 @@ function logger(req, res, next){
 
 module.exports = router;
 
-// get / fetches the data friom the url and displays it for the Frank Sinatra
+// get / points to the home page and then there is a method to be able to fetch the data from the url and displays it for the Frank Sinatra
