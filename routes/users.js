@@ -75,5 +75,6 @@ function logger(req, res, next){
     next()
 }
 
-
 module.exports = router;
+
+// get / fetches the data friom the url and displays it for the Frank Sinatra

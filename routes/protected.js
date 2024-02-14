@@ -1,0 +1,1 @@
+// using the get method to print "Welcome, authenticated client" if you are authorized with the login admin and password admin otherwise it will provide a 401 Not authorized .
